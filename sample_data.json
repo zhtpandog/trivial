@@ -1,0 +1,14 @@
+{
+"nodes":[
+{"node":0,"name":"null"},
+{"node":1,"name":"land on homepage"},
+{"node":2,"name":"click join league"},
+{"node":3,"name":"click free league"},
+{"node":4,"name":"complete join league"}
+],
+"links":[
+{"source":0,"target":1,"value":800},
+{"source":1,"target":2,"value":490},
+{"source":2,"target":3,"value":242},
+{"source":3,"target":4,"value":80}
+]}
